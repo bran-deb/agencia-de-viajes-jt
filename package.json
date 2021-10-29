@@ -1,0 +1,18 @@
+{
+  "name": "1-agencia-de-viajes",
+  "version": "1.0.0",
+  "description": "Proyecto con node",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Brandon Padilla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
